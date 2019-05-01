@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 17, 2019, 9:42:20 AM
+    Author     : cpick
+*/
+
+#backBtn, #backBtn2 {
+    -fx-background-image: url("bck.png");
+    -fx-background-size: 15 15;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: left;
+    -fx-background-color: transparent;
+}
+
+#exitBtn {
+    -fx-background-image: url("exit.png");
+    -fx-background-size: 15 15;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: left;
+    -fx-background-color: transparent;
+}
+
+#addBtn {
+    -fx-background-image: url("add.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: left;
+    -fx-padding: 5 5 5 20;
+    -fx-background-color: #E6E6E6;
+}
+
+#removeBtn {
+    -fx-background-image: url("remove.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: left;
+    -fx-padding: 5 5 5 20;
+    -fx-background-color: #E6E6E6;
+}
+
+#editBtn {
+    -fx-background-image: url("edit.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: left;
+    -fx-padding: 5 5 5 20;
+    -fx-background-color: #E6E6E6;
+}
+
+#showBtn {
+    -fx-background-image: url("show.png");
+    -fx-background-size: 15 15;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: left;
+    -fx-background-color: transparent;
+}
